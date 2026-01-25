@@ -1,0 +1,26 @@
+{
+  "domain": {
+    "name": "SOVERAIN QR",
+    "version": "1",
+    "chainId": 1,
+    "verifyingContract": "0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48"
+  },
+  "types": {
+    "Clearance": [
+      { "name": "status", "type": "string" },
+      { "name": "commandMessage", "type": "string" },
+      { "name": "signer", "type": "address" },
+      { "name": "sessionSeal", "type": "string" }
+    ]
+  },
+  "message": {
+    "status": "SOVERAIN CLEARANCE GRANTED",
+    "commandMessage": "PURCHASES CLEARED — SOVERAIN QR",
+    "signer": "0x4976fb03C32e5B8cfe2b6cCB31c09Ba78EBaBa41",
+    "sessionSeal": "Inscribed"
+  },
+  "signatureCurve": "ECDSAsecp256k1",
+  "protocol": "EIP712 Witness Attestation",
+  "issuedBy": "IMPERIAL-WE",
+  "for": "SOVERAIN OF ALL ⚜️ XP"
+}
