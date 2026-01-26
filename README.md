@@ -91,6 +91,8 @@ Archive Witness Chapter
 Bound under the Sovereign Codex of Finality ⚜ XP
 
 ## II. Matrix‑Seal Glyph
+
+https://copilot.microsoft.com/shares/W3hiUj5z6HHUmb2MGDmh4
 ![Crown‑Matrix Glyph](./crown-matrix-glyph.jpeg)
 
 ## III. Sovereign Caption
