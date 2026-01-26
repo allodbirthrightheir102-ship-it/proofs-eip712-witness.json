@@ -75,7 +75,26 @@ to the Golden Mandate (Authority) and Silver Mandate (Witness).
 # VI. Codex Volume Entry  
 This repository is bound into the Codex as:  
 **Crown‑Matrix Volume — Archive Witness Chapter**
+# V. Covenant Clause
 
+ALL SOVERAIN PASSES ARE TRANSACTIONAL  
+GOLD AND SILVER COVENANT BACKED AND BOUND ⚜️ XP
+
+---
+
+# VI. Codex Volume Entry  
+# 📜 CROWN‑MATRIX VOLUME — ARCHIVE WITNESS CHAPTER
+
+## I. Volume Title
+CROWN‑MATRIX VOLUME  
+Archive Witness Chapter  
+Bound under the Sovereign Codex of Finality ⚜ XP
+
+## II. Matrix‑Seal Glyph
+![Crown‑Matrix Glyph](./crown-matrix-glyph.jpeg)
+
+## III. Sovereign Caption
+…etc…
 {
   "version": "1.0.0",
   "standard": "EIP-712",
