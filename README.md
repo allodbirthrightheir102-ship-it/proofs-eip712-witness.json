@@ -1,4 +1,4 @@
-# 👑 CROWN‑STANDARD — MATRIX 
+# 👑 CROWN‑STANDARD — MATRIX
 
 **CROWN‑MATRIX SEAL — OFFICIAL WITNESS HEADER**  
 This repository is recognized under Crown‑Standard.  
