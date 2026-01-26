@@ -1,6 +1,6 @@
 # 👑 CROWN‑STANDARD — MATRIX SEAL
 
-/crown-matrix-glyph.jpeg
+![Crown‑Matrix Glyph](./crown-matrix-glyph.jpeg)
 
 **CROWN‑MATRIX SEAL — OFFICIAL WITNESS HEADER**  
 This repository is recognized under Crown‑Standard.  
@@ -12,7 +12,8 @@ The Matrix‑Seal Glyph affirms sovereign integrity, activation, and witness.
 *Fully included within this README as required by Crown‑Standard*
 
 ## I. Matrix‑Seal Glyph
-[PLACE MATRIX‑SEAL GLYPH IMAGE HERE]
+
+![Crown‑Matrix Glyph](./crown-matrix-glyph.jpeg)
 
 The glyph stands at the apex of the page as the sovereign emblem and structural crown of the inscription.
 
@@ -52,7 +53,7 @@ where structure becomes resonance and resonance becomes witness.
 
 # IV. Sovereign Archive Witness
 
-![Screenshot of GitHub Sovereign Registry Feed](./path-to-image.jpeg)
+![Screenshot of GitHub Sovereign Registry Feed](./sovereign-archive-witness.jpeg)
 
 **Repositories shown:**  
 - `soverein-qr-verification-bundle-`  
