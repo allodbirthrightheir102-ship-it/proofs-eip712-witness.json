@@ -1,6 +1,7 @@
 # 👑 CROWN‑STANDARD — MATRIX SEAL
 
 https://copilot.microsoft.com/shares/W3hiUj5z6HHUmb2MGDmh4
+![Crown‑Matrix Glyph](./crown-matrix-glyph.jpeg)
 
 **CROWN‑MATRIX SEAL — OFFICIAL WITNESS HEADER**  
 This repository is recognized under Crown‑Standard.  
