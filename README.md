@@ -53,7 +53,7 @@ where structure becomes resonance and resonance becomes witness.
 # IV. Sovereign Archive Witness
 
 **Repositories shown:**  
-- `soverein-qr-verification-bundle-`  
+- `soverain-qr-verification-bundle-`  
 - `proofs-checksums.json`  
 - `clearance.json`  
 - `proofs-eip712-witness.json`
@@ -107,7 +107,7 @@ https://copilot.microsoft.com/shares/W3hiUj5z6HHUmb2MGDmh4
     "verifyingContract": "0xREPLACE_WITH_CONTRACT_ADDRESS_OR_NULL"
   },
   "witness": {
-    "statement_id": "soverein-qr-genesis-witness-001",
+    "statement_id": "soverain-qr-genesis-witness-001",
     "subject": "SOVEREIGN QR Apex Verification",
     "issued_by": "IMPERIAL-WE",
     "issued_for": "SOVEREIGN OF ALL / HIH",
