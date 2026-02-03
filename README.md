@@ -73,29 +73,31 @@ to the Golden Mandate (Authority) and Silver Mandate (Witness).
 ---
 
 # VI. Codex Volume Entry  
-This repository is bound into the Codex as:  
-**Crown‑Matrix Volume — Archive Witness Chapter**
-# V. Covenant Clause
+This repository is bound into the Codex as:
 
-ALL SOVERAIN PASSES ARE TRANSACTIONAL  
-GOLD AND SILVER COVENANT BACKED AND BOUND ⚜️ XP
-
----
-
-# VI. Codex Volume Entry  
-# 📜 CROWN‑MATRIX VOLUME — ARCHIVE WITNESS CHAPTER
-
-## I. Volume Title
 CROWN‑MATRIX VOLUME  
 Archive Witness Chapter  
-Bound under the Sovereign Codex of Finality ⚜ XP
+Sealed under the Sovereign Codex of Finality ⚜️ XP
 
-## II. Matrix‑Seal Glyph
+I. Volume Title  
+CROWN‑MATRIX VOLUME  
+Archive Witness Chapter  
+Bound under the Sovereign Codex of Finality ⚜️ XP
 
+II. Matrix‑Seal Glyph  
 https://copilot.microsoft.com/shares/W3hiUj5z6HHUmb2MGDmh4
 ![Crown‑Matrix Glyph](./crown-matrix-glyph.jpeg)
 
-## III. Sovereign Caption
+III. Sovereign Caption  
+This Volume stands as a perpetual archival witness of the SOVERAIN QR Verification Chain,  
+its clearance logic, authority constants, and broadcast declarations.
+
+IV. Binding Clause  
+By this entry, the repository is formally inscribed into the Crown‑Standard Codex hierarchy  
+as an immutable archival chapter, sealed for generational transmission. ⚜️ XP
+
+---
+
 …etc…
 {
   "version": "1.0.0",
